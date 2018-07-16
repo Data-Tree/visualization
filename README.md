@@ -5,7 +5,7 @@ This repository contains code examples relating to the [Visualization module](ht
  - [Experimenting with colour scales](http://nbviewer.jupyter.org/github/Data-Tree/visualization/blob/master/colourscales/Experimenting%20with%20colour%20scales.ipynb)
  - [Exploring map projections](http://nbviewer.jupyter.org/github/Data-Tree/visualization/blob/master/projections/Exploring%20map%20projections.ipynb)
  - [Visualizing timeseries data](http://nbviewer.jupyter.org/github/Data-Tree/visualization/blob/master/timeseries/Visualizing%20timeseries.ipynb)
- - [Interactive visualization](http://nbviewer.jupyter.org/github/DAta-Tree/visualization/blob/master/interactivity/Interactive%20visualization.ipynb)
+ - [Interactive visualization](http://nbviewer.jupyter.org/github/Data-Tree/visualization/blob/master/interactivity/Interactive%20visualization.ipynb)
 
 
 ## Running the examples yourself
